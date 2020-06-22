@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/create-module/create-module.iml" filepath="$PROJECT_DIR$/create-module/create-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures-python-module-import.iml" filepath="$PROJECT_DIR$/lectures-python-module-import.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mod-calc/mod-calc.iml" filepath="$PROJECT_DIR$/mod-calc/mod-calc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mod-demo/mod-demo.iml" filepath="$PROJECT_DIR$/mod-demo/mod-demo.iml" />
+    </modules>
+  </component>
+</project>
